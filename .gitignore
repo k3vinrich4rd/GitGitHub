@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+!/src/main/java/com/example/GitGitHub/repository/teste.txt
+!/src/main/java/com/example/GitGitHub/repository/xcdcdc
+!/src/main/java/com/example/GitGitHub/repository/th.java
